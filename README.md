@@ -8,5 +8,5 @@
 
 
 ### 解答として使用するサイト
-[u++ 「言語処理100本ノック 2020」をPythonで解く](https://upura.hatenablog.com/entry/2020/04/14/024948)
+[u++ 「言語処理100本ノック 2020」をPythonで解く](https://upura.hatenablog.com/entry/2020/04/14/024948)<br>
 [【言語処理100本ノック 2020】Pythonによる解答例まとめ](https://amaru-ai.com/entry/2022/10/15/204035#%E7%AC%AC3%E7%AB%A0-%E6%AD%A3%E8%A6%8F%E8%A1%A8%E7%8F%BE)
